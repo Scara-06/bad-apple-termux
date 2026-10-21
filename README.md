@@ -6,7 +6,7 @@ Plays the Bad Apple!! shadow-art video as live ASCII art in your terminal, with 
 
 ```bash
 pkg install -y git
-git clone https://github.com/<your-username>/bad-apple-termux
+git clone https://github.com/<Scara-06>/bad-apple-termux
 cd bad-apple-termux
 ./install.sh     # installs python, ffmpeg, mpv, yt-dlp
 ./run.sh         # downloads the video on first run, then plays
